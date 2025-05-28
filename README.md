@@ -16,5 +16,5 @@ https://github.com/hoijui/JavaOSC
 And SuperCollider:
 https://github.com/supercollider/supercollider
 
-OpenImaj depends on Bridj:
+OpenImaj depends on BridJ:
 https://github.com/nativelibs4java/BridJ
